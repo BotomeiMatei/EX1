@@ -1,0 +1,31 @@
+## .NET / Visual Studio
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build and test results
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+TestResults/
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+## Local database files
+*.mdf
+*.ldf
+*.ndf
+
+## OS files
+.DS_Store
+Thumbs.db
+
+## User-specific application settings
+appsettings.Local.json
